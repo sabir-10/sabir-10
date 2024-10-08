@@ -1,5 +1,5 @@
 HI,👋Welcome to my Github Profile
 <br />
-Ask me about AI,MERN Stack and Data Analysis
+Ask me about MERN Stack💻, AI🤖 and Data Analysis📈 
 <br />
-A coder👨‍💻, keen learner💡and tech enthusiast⚙️
+A coder👨‍💻, learner💡and tech enthusiast⚙️
