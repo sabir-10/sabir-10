@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="center">Hey,👋 What's Up? Afnan here</p>
+<h2 align="center">Hey,👋 What's Up? Afnan here</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My Tech Stack👇</p>
+<h2 align="center">My Tech Stack👇</h2>
 
 ###
 
@@ -88,7 +88,27 @@
 
 ###
 
-<p align="center">Connect with me on Linkedin👇</p>
+<h2 align="center">Work Experience💻</h2>
+
+###
+
+<h4 align="left">Cognizant Technology Solutions</h4>
+
+###
+
+<p align="left">Programmer Analyst Trainee                                                                                                <br>• Worked on enterprise-scale Java/React applications during an active release cycle to improve feature <br>efficiency and strengthen QA reliability. <br>• Developed production-ready full-stack features, built Selenium-based regression automation, applied <br>Generative AI for test generation and defect analysis, and collaborated across Agile teams using CI/CD. <br>• Resulted in enhanced application stability, accelerated release readiness, and reduced manual QA effort <br>by 30% while increasing overall test coverage.</p>
+
+###
+
+<h2 align="left">EDUCATION</h2>
+
+###
+
+<p align="left">California State University, Sacramento  <br>Master’s Degree in Computer Science<br>(Expected May 2027)<br><br>Osmania University                                                                                                                 <br>Bachelor’s Degree in Computer Science & Engineering <br>(2021 - 2025)</p>
+
+###
+
+<h4 align="center">Connect with me on Linkedin🔗</h4>
 
 ###
 
@@ -103,5 +123,9 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
